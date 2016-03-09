@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <in>Controlador.cpp</in>
+      <in>Controlador.h</in>
+      <in>MArticulo.cpp</in>
+      <in>MArticulo.h</in>
+      <in>MEmpresa.cpp</in>
+      <in>MEmpresa.h</in>
+      <in>MEntrada.cpp</in>
+      <in>MEntrada.h</in>
+      <in>MPelicula.cpp</in>
+      <in>MPelicula.h</in>
+      <in>MPersona.cpp</in>
+      <in>MPersona.h</in>
+      <in>MSala.cpp</in>
+      <in>MSala.h</in>
+      <in>Principal.cpp</in>
+      <in>VEmpresa.cpp</in>
+      <in>VEmpresa.h</in>
+      <in>VGeneral.cpp</in>
+      <in>VGeneral.h</in>
+      <in>VPelicula.cpp</in>
+      <in>VPelicula.h</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile></projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>Debug</buildCommandWorkingDir>
+          <buildCommand>g++ -o</buildCommand>
+          <cleanCommand>echo clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="Controlador.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Controlador.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MArticulo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MArticulo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MEmpresa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MEmpresa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MEntrada.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MEntrada.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MPelicula.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MPelicula.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MPersona.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MPersona.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MSala.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MSala.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Principal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VEmpresa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VEmpresa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VGeneral.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VGeneral.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VPelicula.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VPelicula.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
